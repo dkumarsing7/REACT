@@ -1,0 +1,17 @@
+.btn {
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 3rem;
+    font-weight: bold;
+    border-radius: 1rem;
+    background-color: hsl(180, 100%, 68%);
+    border: none;
+}
+
+p {
+    font-size: 8rem;
+}
+
+div {
+    text-align: center;
+}
